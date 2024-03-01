@@ -1,6 +1,6 @@
 # ECL_Enhanced_ObjectNav
 
-The following is an introduction to the usage of our ObjectNav (enhanced by 2D-3DECL) code.
+The following is an introduction to the usage of our ObjectNav strategy (enhanced by 2D-3DECL). The model weights PointNet.pth and ResNet50.pth required for this project need to be obtained using our 2D-3DECL code. Please place PointNet.pth and ResNet50.pth in the ECL_Enhanced_ObjectNav/pretrain folder. We will release the pre-trained model soon.
 
 ## Setup
 - *Dependeces*: We use earlier (`0.2.2`) versions of [habitat-sim](https://github.com/facebookresearch/habitat-sim/tree/v0.2.2) and [habitat-lab](https://github.com/facebookresearch/habitat-lab/tree/v0.2.2). Other related depencese can be found in `requirements.txt`. 
